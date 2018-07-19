@@ -1,0 +1,12 @@
+Source: ros-lunar-sbg-driver
+Section: misc
+Priority: extra
+Maintainer: Thomas Le Mézo <thomas.le_mezo@ensta-bretagne.org>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin, ros-lunar-geometry-msgs, ros-lunar-message-generation, ros-lunar-roscpp, ros-lunar-sensor-msgs, ros-lunar-std-msgs, ros-lunar-std-srvs
+Homepage: http://wiki.ros.org/sbg_driver
+Standards-Version: 3.9.2
+
+Package: ros-lunar-sbg-driver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-geometry-msgs, ros-lunar-message-runtime, ros-lunar-roscpp, ros-lunar-sensor-msgs, ros-lunar-std-msgs, ros-lunar-std-srvs
+Description: The SBG ROS Driver package
