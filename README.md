@@ -1,3 +1,26 @@
+## sbg_driver (melodic) - 2.0.0-1
+
+The packages in the `sbg_driver` repository were released into the `melodic` distro by running `/usr/bin/bloom-release sbg_driver --rosdistro melodic` on `Mon, 06 Jan 2020 11:11:19 -0000`
+
+The `sbg_driver` package was released.
+
+Version of package(s) in repository `sbg_driver`:
+
+- upstream repository: https://github.com/ENSTABretagneRobotics/sbg_ros_driver.git
+- release repository: https://github.com/SBG-Systems/sbg_ros_driver-release.git
+- rosdistro version: `1.1.7-0`
+- old version: `1.1.7-0`
+- new version: `2.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.15`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## sbg_driver (kinetic) - 2.0.0-1
 
 The packages in the `sbg_driver` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release sbg_driver --rosdistro kinetic` on `Mon, 06 Jan 2020 10:59:00 -0000`
