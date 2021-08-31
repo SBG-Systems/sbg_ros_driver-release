@@ -1,3 +1,26 @@
+## sbg_driver (kinetic) - 3.0.0-1
+
+The packages in the `sbg_driver` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release sbg_driver --rosdistro kinetic` on `Tue, 31 Aug 2021 16:53:14 -0000`
+
+The `sbg_driver` package was released.
+
+Version of package(s) in repository `sbg_driver`:
+
+- upstream repository: https://github.com/SBG-Systems/sbg_ros_driver.git
+- release repository: https://github.com/SBG-Systems/sbg_ros_driver-release.git
+- rosdistro version: `2.0.3-1`
+- old version: `2.0.3-1`
+- new version: `3.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.1`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## sbg_driver (noetic) - 3.0.0-1
 
 The packages in the `sbg_driver` repository were released into the `noetic` distro by running `/usr/bin/bloom-release sbg_driver --rosdistro noetic` on `Tue, 31 Aug 2021 16:49:59 -0000`
