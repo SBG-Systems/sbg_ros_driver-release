@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>sbg_driver</name>
-  <version>3.1.0</version>
+  <version>3.1.1</version>
   <description>
     ROS driver package for communication with the SBG navigation systems.
   </description>
@@ -19,6 +19,8 @@
   <build_depend>std_srvs</build_depend>
   <build_depend>geometry_msgs</build_depend>
   <build_depend>message_generation</build_depend>
+  <build_depend>tf2_ros</build_depend>
+  <build_depend>tf2_msgs</build_depend>
   
   <run_depend>roscpp</run_depend>
   <run_depend>sensor_msgs</run_depend>
@@ -26,5 +28,7 @@
   <run_depend>std_msgs</run_depend>
   <run_depend>std_srvs</run_depend>
   <run_depend>message_runtime</run_depend>
+  <run_depend>tf2_ros</run_depend>
+  <run_depend>tf2_msgs</run_depend>
   
 </package>
