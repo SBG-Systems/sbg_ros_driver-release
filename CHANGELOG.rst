@@ -2,6 +2,13 @@
 Changelog for package sbg_driver
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+3.1.1 (2021-10-13)
+------------------
+* update build status icon
+* fix missing dependencies
+* update doc with odometry message
+* Contributors: Michael Zemb
+
 3.1.0 (2021-10-06)
 ------------------
 * Feature `#44 <https://github.com/SBG-Systems/sbg_ros_driver/issues/44>`_ - odometry output
