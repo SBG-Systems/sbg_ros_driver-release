@@ -1,6 +1,6 @@
 # sbg_driver
 
-[![Build Status](https://build.ros.org/buildStatus/icon?job=Mdev__sbg_driver__ubuntu_bionic_amd64&build=16)](https://build.ros.org/job/Mdev__sbg_driver__ubuntu_bionic_amd64/16/)
+[![Build Status](https://build.ros.org/buildStatus/icon?job=Mdev__sbg_driver__ubuntu_bionic_amd64&build=lastBuild)](https://build.ros.org/job/Mdev__sbg_driver__ubuntu_bionic_amd64/lastBuild/)
 
 ## Overview
 ROS package for SBG Systems IMU.<br />
