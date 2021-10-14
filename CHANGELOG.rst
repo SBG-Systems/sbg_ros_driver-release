@@ -2,10 +2,9 @@
 Changelog for package sbg_driver
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-3.1.1 (2021-10-13)
+3.1.1 (2021-10-14)
 ------------------
-* update build status icon
-* fix missing dependencies
+* fix missing dependencies and build status link
 * update doc with odometry message
 * Contributors: Michael Zemb
 
