@@ -8,6 +8,7 @@ find_package(catkin REQUIRED COMPONENTS
   std_srvs
   geometry_msgs
   message_generation
+  nav_msgs
   tf2_ros
   tf2_msgs
 )
@@ -52,6 +53,7 @@ add_message_files(FILES
 ## Generate added messages and services with any dependencies listed here
 generate_messages(DEPENDENCIES
   std_msgs
+  nav_msgs
   geometry_msgs
 )
 
