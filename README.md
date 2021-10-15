@@ -1,3 +1,26 @@
+## sbg_driver (noetic) - 3.1.1-5
+
+The packages in the `sbg_driver` repository were released into the `noetic` distro by running `/usr/bin/bloom-release sbg_driver --rosdistro noetic` on `Fri, 15 Oct 2021 08:27:21 -0000`
+
+The `sbg_driver` package was released.
+
+Version of package(s) in repository `sbg_driver`:
+
+- upstream repository: https://github.com/SBG-Systems/sbg_ros_driver.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `3.1.1-4`
+- new version: `3.1.1-5`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## sbg_driver (noetic) - 3.1.1-4
 
 The packages in the `sbg_driver` repository were released into the `noetic` distro by running `/usr/bin/bloom-release sbg_driver --rosdistro noetic` on `Thu, 14 Oct 2021 13:02:11 -0000`
