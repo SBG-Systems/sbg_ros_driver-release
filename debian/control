@@ -1,0 +1,12 @@
+Source: ros-noetic-sbg-driver
+Section: misc
+Priority: optional
+Maintainer: SBG Systems <support@sbg-systems.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin, ros-noetic-geometry-msgs, ros-noetic-message-generation, ros-noetic-nav-msgs, ros-noetic-roscpp, ros-noetic-sensor-msgs, ros-noetic-std-msgs, ros-noetic-std-srvs, ros-noetic-tf2-geometry-msgs, ros-noetic-tf2-msgs, ros-noetic-tf2-ros
+Homepage: http://wiki.ros.org/sbg_driver
+Standards-Version: 3.9.2
+
+Package: ros-noetic-sbg-driver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-geometry-msgs, ros-noetic-message-runtime, ros-noetic-nav-msgs, ros-noetic-roscpp, ros-noetic-sensor-msgs, ros-noetic-std-msgs, ros-noetic-std-srvs, ros-noetic-tf2-geometry-msgs, ros-noetic-tf2-msgs, ros-noetic-tf2-ros
+Description: ROS driver package for communication with the SBG navigation systems.
